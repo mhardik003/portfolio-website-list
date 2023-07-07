@@ -9,6 +9,7 @@ List of portfolio websites that I liked ( feel free to fork, add any websites th
 * https://github.com/anuraghazra/anuraghazra.github.io
 * https://themewagon.github.io/clark/
 * https://bootstrapmade.com/demo/Personal/
+* https://github.com/technext/kards.git
 
 
 
