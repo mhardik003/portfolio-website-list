@@ -17,6 +17,7 @@ List of portfolio websites that I liked ( feel free to fork, add any websites th
 ### Minimalistic
 * https://github.com/guilyx/guilyx.github.io
 * https://github.com/MacroPower/macropower.github.io
+* https://github.com/codewithsadee/vcard-personal-portfolio
 
 
 
